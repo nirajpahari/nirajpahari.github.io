@@ -128,7 +128,7 @@ a:hover { color: #f09228; text-decoration: none; }
     margin: 0 auto;
     border: 1px hidden #000;
     text-align: left;
-    padding: 1em 1em 1em 1em;
+    padding: 0em 0em 0em 0em;
     color: #4d4b59;
     background: #FFFFFF;
 }
